@@ -1,0 +1,6 @@
+N Sport Countries IsOlympic
+11 TableTennis 160 True
+12 Badminton 176 True
+13 IceHockey 81 True
+14 Handball 119 True
+15 Athletics 213 True

@@ -1,0 +1,7 @@
+N Sport Countries IsOlympic
+1 Golf 68 true
+2 Chess 71 false
+3 IceHockey 81 true
+4 Cricket 106 false
+5 Rugby 113 true
+6 Handball 119 true
