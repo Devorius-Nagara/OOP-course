@@ -1,3 +1,0 @@
-N Sport Countries IsOlympic
-1 Golf 68 true
-2 Chess 71 false

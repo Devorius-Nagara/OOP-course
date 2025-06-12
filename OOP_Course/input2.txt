@@ -1,6 +1,0 @@
-N Sport Countries IsOlympic
-6 Baseball 124 False
-7 Rugby 113 True
-8 Cricket 106 False
-9 Volleyball 222 True
-10 Swimming 209 True

@@ -1,4 +1,0 @@
-N Sport Countries IsOlympic
-1 Tennis 195 true
-2 Football 211 true
-3 Basketball 213 true
